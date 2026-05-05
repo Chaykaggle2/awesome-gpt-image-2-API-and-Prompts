@@ -18,6 +18,7 @@
 [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
 [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
 [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
+[![🇻🇳 Tiếng Việt](https://img.shields.io/badge/🇻🇳_Tiếng_Việt-Xem-da251d)](README_vi.md)
 
 </div>
 
